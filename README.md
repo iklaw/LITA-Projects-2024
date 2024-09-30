@@ -10,4 +10,6 @@ The Primary source of data used is Sales.csv, a data collected from LITA Trainin
 ### Tools used
 1. Microsoft Excel for Data Cleaning, Analysis, and Visualisation [Download here](https://www.microsoft.con)
 2. Structured Query Language for Querying of Data
-3. Github for building Portfolio
+3. Github for Building Portfolio
+
+### Data Cleaning and Preparation
