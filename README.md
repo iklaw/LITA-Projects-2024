@@ -8,6 +8,6 @@ This is a dana analyaisis for sales company, we worked on their data for the pas
 The Primary source of data used is Sales.csv, a data collected from LITA Training
 
 ### Tools used
--Microsoft Excel for Data Cleaning, Analysis, and Visualisation
--structured Query Language for Querying of Data
--Github for building Portfolio
+- Microsoft Excel for Data Cleaning, Analysis, and Visualisation
+- Structured Query Language for Querying of Data
+- Github for building Portfolio
