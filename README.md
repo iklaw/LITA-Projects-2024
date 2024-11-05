@@ -1,6 +1,6 @@
-# LITA-Projects-2024
+# LITA CAPSTONE PROJECT
 
-### Project Title: Capstone Project
+### Project Title: Sales Performance Analysis for a Retail Store
 ### Project Overview
 In this project, i will be analyzing the sales performance of a retail store.
 i will explore sales data to uncover key insights such as top-selling products, regional
